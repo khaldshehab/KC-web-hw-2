@@ -1,0 +1,59 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+
+li, a, button{
+    font-family: 'Lalezar', cursive; 
+    color: aliceblue;
+    
+}
+.img{
+    margin-left: 11px;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    border-style: groove;
+}
+.nav_links {
+    list-style: none;
+}
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+h1{
+    color: antiquewhite;
+    padding-left: 50%;
+}
+h3{
+    color: antiquewhite;
+}
+
+.ms{
+box-shadow: brown;
+border-style: groove;
+width: 20%;
+
+display: flex;
+flex-wrap: wrap;
+}
+   
+button{
+    color: antiquewhite;
+    font-size: x-large;
+    padding-left: 90%;
+}
+.mc{
+    color: antiquewhite;
+padding: 1%;
+}
